@@ -1,0 +1,6 @@
+C:\Users\Dell\Source\Repos\Battleship\Model\bin\Debug\Model.dll
+C:\Users\Dell\Source\Repos\Battleship\Model\bin\Debug\Model.pdb
+C:\Users\Dell\Source\Repos\Battleship\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\Battleship\Model\obj\Debug\Model.dll
+C:\Users\Dell\Source\Repos\Battleship\Model\obj\Debug\Model.pdb
+C:\Users\Dell\source\repos\Battleship\Model\obj\Debug\Model.csproj.AssemblyReference.cache
